@@ -9,7 +9,7 @@ Binnary distribution is provided as DLL library for Windows Server, compiled on 
 
 Support is available on demand, for monthly fee.
 
-Customization is possible on demand.
+Customizations are possible on demand.
 
 ## License
 NON Exclusive COMMERCIAL License, no one can sell, only I can provide
